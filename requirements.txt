@@ -1,4 +1,4 @@
-#sudo apt install portaudio19-dev
+#sudo apt install portaudio19-dev libportaudio2 portaudio19-dev
 
 pyautogui
 pyaudio
