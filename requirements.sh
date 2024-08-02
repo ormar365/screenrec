@@ -1,5 +1,4 @@
-#!/bin/bash
-sudo apt install portaudio19-dev libportaudio2 portaudio19-dev
+sudo apt update && sudo apt install portaudio19-dev libportaudio2 portaudio19-dev -y
 pip install pyautogui
 pip install pyaudio
 pip install opencv-python
