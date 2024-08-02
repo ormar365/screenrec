@@ -1,0 +1,6 @@
+#sudo apt install portaudio19-dev
+
+pyautogui
+pyaudio
+opencv-python
+moviepy
